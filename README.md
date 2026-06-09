@@ -196,7 +196,7 @@ We view AI not as a creator, but as a powerful tool that allowed us to focus mor
 - WhatsApp Deep Link Integration
 - Project Architecture & Repo Management
 
-**My Contributions**
+**My Contributions:**
 - UI/UX Design & Implementation (Dark Mode, Animations)
 - Guard Mode State Management
 - Audio System Integration (Deterrence Playback)
